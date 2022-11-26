@@ -160,7 +160,7 @@
 
           h5{
             font-family: 'Formula Condensed';
-               font-weight: 12;
+               font-weight: 6;
                font-size: 5vw;
                padding-bottom:0vw;
                
@@ -169,8 +169,6 @@
              color:  #27df34;
               -webkit-text-fill-color:  #27df34
             ; 
-              -webkit-text-stroke-width: 0.2vw;
-              -webkit-text-stroke-color: #27df34;
               
             }
       
